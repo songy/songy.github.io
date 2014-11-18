@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Most of these blogs are about engineering productivity]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://songy.github.io/"/>
-  <updated>2014-11-18T13:30:03.951Z</updated>
+  <updated>2014-11-18T14:09:56.468Z</updated>
   <id>http://songy.github.io/</id>
   
   <author>
@@ -13,6 +13,26 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Just test my blog]]></title>
+    <link href="http://songy.github.io/2014/11/18/test/"/>
+    <id>http://songy.github.io/2014/11/18/test/</id>
+    <published>2014-11-18T14:09:24.000Z</published>
+    <updated>2014-11-18T14:09:24.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://songy.github.io/" target="_blank" rel="external">songy’s blog</a>!</p>
+<h2 id="title">title</h2>
+<h3 id="subtitle">subtitle</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ <span class="built_in">echo</span> <span class="string">"Hello world"</span></div></pre></td></tr></table></figure>
+
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://songy.github.io/" target="_blank" rel="external">songy’s blog</a>!</p>
+<h2 id="title">title</h2>
+<h3 id="subti]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
