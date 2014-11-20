@@ -623,7 +623,7 @@ header nav ul li a:hover {
   border-left: 0.5em solid #2ca6cb;
 }
 #main section.post a h1 {
-  color: #2ca6cb;
+  color: #2c9bcb;
   line-height: 2;
 }
 #main section.post a p {
@@ -657,7 +657,7 @@ header nav ul li a:hover {
   padding: 0.5em 1em;
 }
 #page-nav a {
-  color: #2ca6cb;
+  color: #2c9bcb;
 }
 #page-nav a:hover {
   background: #ccc;
@@ -706,7 +706,7 @@ header nav ul li a:hover {
   font-weight: bold;
 }
 #page-nav .space {
-  color: #2ca6cb;
+  color: #2c9bcb;
 }
 /* page layout */
 @media only screen and (min-width: 1024px) {
@@ -751,11 +751,11 @@ header nav ul li a:hover {
 }
 .archive-title h2 {
   width: 90%;
-  color: #2ca6cb;
+  color: #2c9bcb;
   font-size: 120%;
 }
 .archive-title a {
-  color: #2ca6cb;
+  color: #2c9bcb;
   -webkit-transition: color 0.5s;
   -moz-transition: color 0.5s;
   -o-transition: color 0.5s;
@@ -819,7 +819,7 @@ header nav ul li a:hover {
 }
 .post a,
 .page a {
-  color: #2ca6cb;
+  color: #2c9bcb;
 }
 .post a:hover,
 .page a:hover {
@@ -1260,7 +1260,7 @@ footer.article-footer {
   color: #ccc;
 }
 .qrclose:hover:before {
-  color: #2ca6cb !important;
+  color: #2c9bcb !important;
 }
 .overlay {
   display: none !important;
@@ -1325,7 +1325,7 @@ footer.article-footer {
 }
 .article-tags a:hover {
   color: #fff;
-  background: #2ca6cb;
+  background: #2c9bcb;
 }
 .article-categories {
   color: #d6d6d6;
@@ -1343,7 +1343,7 @@ footer.article-footer {
 }
 .article-category-link:hover {
   color: #fff !important;
-  background: #2ca6cb;
+  background: #2c9bcb;
 }
 .article-nav {
   padding: 0 10%;
@@ -1363,7 +1363,7 @@ footer.article-footer {
 }
 .article-nav .prev a:hover,
 .article-nav .next a:hover {
-  background: #2ca6cb;
+  background: #2c9bcb;
   color: #fff;
 }
 .article-nav .prev {
@@ -1540,7 +1540,7 @@ section.comment {
   color: #2ca6cb;
 }
 .closeaside a:hover {
-  color: #2ca6cb;
+  color: #2c9bcb;
 }
 .closeaside a::before {
   font-family: "FontAwesome";
@@ -1571,12 +1571,12 @@ section.comment {
 }
 .asidetitle {
   font-size: 1.1em;
-  color: #2ca6cb;
+  color: #2c9bcb;
   padding: 0 0 0.3125em 0;
   border-bottom: 0.1875em solid #ccc;
 }
 .asidetitle a {
-  color: #2ca6cb;
+  color: #2c9bcb;
 }
 .asidetitle a:hover {
   color: #2ca6cb;
@@ -1926,7 +1926,7 @@ footer {
   }
 }
 .social-font a:hover:before {
-  color: #2ca6cb;
+  color: #2c9bcb;
 }
 .icon-weibo:before,
 .icon-github:before,
@@ -1984,10 +1984,10 @@ footer {
   }
 }
 .copyright a {
-  color: #2ca6cb;
+  color: #2c9bcb;
 }
 .copyright a:hover {
-  color: #2ca6cb;
+  color: #2c9bcb;
   text-decoration: underline;
 }
 .article-content pre,
@@ -2124,7 +2124,7 @@ footer {
   margin-top: 1em;
 }
 .article-content .gist .gist-file .gist-meta a {
-  color: #2ca6cb;
+  color: #2c9bcb;
   font-weight: normal;
 }
 .article-content .gist .gist-file .gist-meta a:hover {
